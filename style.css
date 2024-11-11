@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-item-style:hover {
+    background-color: red;
+}
+
+#bg-wrapping-1 {
+    background-image: url("https://wowslider.com/sliders/demo-93/data1/images/lake.jpg");
+    width: 100%;
+    height: 100%;
+}
+#bg-wrapping-2 {
+    background-image: url("https://wowslider.com/sliders/demo-93/data1/images/landscape.jpg");
+    width: 100%;
+    height: 100%;
+}
+#bg-wrapping-3 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHCbHGd7D623E5XBmXkDJSQb0iTK5l3GtSQ&s");
+    width: 100%;
+    height: 100%;
+}
